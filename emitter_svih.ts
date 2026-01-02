@@ -1,0 +1,1 @@
+const service_svih = <T>(args: T): T => { return args; };
